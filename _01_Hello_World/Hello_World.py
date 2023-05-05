@@ -2,3 +2,4 @@
 
 def main():
     pass
+    return "Hello, World!"
